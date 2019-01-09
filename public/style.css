@@ -1,0 +1,67 @@
+.jumbotron {
+  color: #ffc107
+}
+
+.btn-warning {
+  color: white;
+}
+
+.navbar-brand {
+  color: #ffc107;
+  text-decoration: underline;
+}
+
+.nav-link {
+  color: #ffc107;
+  text-decoration: underline;
+}
+
+.new-article-btn {
+    margin-top: 10px;
+  }
+  
+  .fa-github {
+    font-size: 30px;
+  }
+  
+  .git-icon {
+    text-decoration: none;
+    color: #ffc107;
+    -webkit-transition: 0.5s ease-out;
+    -moz-transition:  0.5s ease-out;
+    transition:  0.5s ease-out;
+  }
+  
+  .git-icon:hover {
+    text-decoration: none;
+    color: #f7a62c;
+    -webkit-transform: rotateZ(360deg);
+    -moz-transform: rotateZ(360deg);
+    transform: rotateZ(360deg);
+  }
+  
+  .title-link {
+    text-decoration: none;
+    color: #f7a62c;
+  }
+  
+  .title-link:hover {
+    text-decoration: none;
+    color: #f7a62c;
+  }
+  
+  textarea {
+    display: block;
+    height: 200px;
+    font-size: 16px;
+    width: 100%;
+    background-color: #ffffff;
+    border: 1px solid #cfcfcf;
+  }
+  
+  #note {
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #616161;
+    letter-spacing: 1px;
+  }
