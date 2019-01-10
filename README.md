@@ -1,5 +1,4 @@
 # Mongo-Scraper
-# Blog Article Scraper
 
 ## Overview
 An app that scrapes articles from https://www.invisionapp.com/inside-design/ and lets users save articles and leave comments on the latest news.
